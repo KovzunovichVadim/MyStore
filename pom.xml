@@ -9,8 +9,8 @@
     <url>http://maven.apache.org</url>
 
     <properties>
-        <maven.compiler.source>17</maven.compiler.source>   <!-- Указывает для какой версии Java  -->
-        <maven.compiler.target>17</maven.compiler.target>   <!-- компилируется код -->
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
     </properties>
 
     <dependencies>
